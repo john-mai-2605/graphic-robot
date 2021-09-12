@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: The intermediate directory (.\Debug\) contains files shared from another project (asst2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  asst4.cpp
+C:\Users\Tung-Duong John Mai\Documents\CS380 - Graphics\hw8_20180745_MaiTungDuong\hw8\asst4.cpp(522,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Tung-Duong John Mai\Documents\CS380 - Graphics\hw8_20180745_MaiTungDuong\hw8\asst4.cpp(549,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Tung-Duong John Mai\Documents\CS380 - Graphics\hw8_20180745_MaiTungDuong\hw8\asst4.cpp(562,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Tung-Duong John Mai\Documents\CS380 - Graphics\hw8_20180745_MaiTungDuong\hw8\asst4.cpp(650,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Tung-Duong John Mai\Documents\CS380 - Graphics\hw8_20180745_MaiTungDuong\hw8\asst4.cpp(695,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Tung-Duong John Mai\Documents\CS380 - Graphics\hw8_20180745_MaiTungDuong\hw8\asst4.cpp(713,23): warning C4018: '<': signed/unsigned mismatch
+  asst2.vcxproj -> C:\Users\Tung-Duong John Mai\Documents\CS380 - Graphics\hw8_20180745_MaiTungDuong\hw8\Debug\asst4.exe
